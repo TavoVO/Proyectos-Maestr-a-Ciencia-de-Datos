@@ -5,6 +5,7 @@ This repository is the navigation point for coursework and projects from my MSc 
 ## Course repositories
 
 - [Intelligent Agents](https://github.com/TavoVO/MCD-Uso-de-Agentes-Inteligentes): RAG, tool calling, APIs, and MCP
+- [Information Exploitation](https://github.com/TavoVO/MCD-Explotacion-de-la-Informacion): exploratory analysis, business datasets, and scenario analysis
 - [Data Structures](https://github.com/TavoVO/MCD-Estructura-de-datos): data-structure coursework
 - [Data Mining](https://github.com/TavoVO/MCD-Miner-a-de-Datos): data preparation, models, and evaluation
 - [Local Ollama Projects](https://github.com/TavoVO/Proyectos-con-Ollama-Local): local LLM and chat experiments
